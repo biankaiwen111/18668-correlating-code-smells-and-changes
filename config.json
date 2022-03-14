@@ -1,0 +1,8 @@
+{
+  "repository_file": "repo.csv",
+  "output_folder": "miner-output/",
+  "smell_detector": "libs/organic-OPT.jar",
+  "source_folder": "source",
+  "smell_folder": "smells",
+  "smell_file": "smells.json"
+}
